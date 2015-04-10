@@ -51,6 +51,7 @@
   <project path="device/generic/x86_64" name="device/generic/x86_64" groups="pdk" remote="aosp" />
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" groups="device" remote="aosp" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" groups="device" remote="aosp" />
+  <project path="device/google/atv" name="CyanogenMod/android_device_google_atv" groups="device" />
   <project path="device/qcom/sepolicy" name="CyanogenMod/android_device_qcom_sepolicy" />
   <project path="device/sample" name="device/sample" groups="pdk" remote="aosp" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" groups="pdk-cw-fs" remote="aosp" />
@@ -113,7 +114,7 @@
   <project path="external/chromium_org/third_party/yasm/source/patched-yasm" name="platform/external/chromium_org/third_party/yasm/source/patched-yasm" remote="aosp" />
   <project path="external/chromium_org/tools/grit" name="platform/external/chromium_org/tools/grit" remote="aosp" />
   <project path="external/chromium_org/tools/gyp" name="platform/external/chromium_org/tools/gyp" remote="aosp" />
-  <project path="external/chromium_org/v8" name="platform/external/chromium_org/v8" remote="aosp" />
+  <project path="external/chromium_org/v8" name="CyanogenMod/android_external_chromium_org_v8" />
   <project path="external/clang" name="platform/external/clang" groups="pdk" remote="aosp" />
   <project path="external/cmockery" name="platform/external/cmockery" remote="aosp" />
   <project path="external/compiler-rt" name="platform/external/compiler-rt" groups="pdk" remote="aosp" />
@@ -226,7 +227,7 @@
   <project path="external/libusb-compat" name="platform/external/libusb-compat" groups="pdk-cw-fs" remote="aosp" />
   <project path="external/libutf" name="platform/external/libutf" groups="pdk-cw-fs" remote="aosp" />
   <project path="external/libvorbis" name="platform/external/libvorbis" groups="pdk-cw-fs" remote="aosp" />
-  <project path="external/libvpx" name="platform/external/libvpx" groups="pdk" remote="aosp" />
+  <project path="external/libvpx" name="CyanogenMod/android_external_libvpx" groups="pdk" />
   <project path="external/libvterm" name="CyanogenMod/android_external_libvterm" />
   <project path="external/libxml2" name="CyanogenMod/android_external_libxml2" groups="pdk-cw-fs" />
   <project path="external/libxslt" name="CyanogenMod/android_external_libxslt" />
